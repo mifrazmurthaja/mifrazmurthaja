@@ -35,7 +35,7 @@
 - [JWT SSO with WSO2 Identity Server](https://mifrazmurthaja.medium.com/jwt-sso-with-wso2-identity-server-cf486ffba1bf?source=rss-171d8e0afdf2------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://https://mifrazmurthaja.medium.com/)
+➡️ [more blog posts...](https://mifrazmurthaja.medium.com/)
 
 ---
 
