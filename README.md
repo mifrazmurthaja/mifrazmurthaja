@@ -54,4 +54,4 @@
 
 ---
 
-![Mifraz Murthaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&hide_border=true)
+![Mifraz Murthaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=mifrazmurthaja&count_private=true&hide_border=true)
