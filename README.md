@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Learner and  a Mentor!!
 
-- 🌱 I’m currently curious to learn everything!
+- 🌱 I’m curious to learn everything!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 
