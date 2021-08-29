@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Learner and  a Mentor!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently curious to learn everything!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 
@@ -18,6 +18,7 @@
 [<img align="left" alt="mifrazmurthaja | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://mifrazmurthaja.medium.com/)
 [<img align="left" alt="mifrazmurthaja | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/8725706/mifrazmurthaja)
 [<img align="left" alt="mifrazmurthaja | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />](https://github.com/mifrazmurthaja)
+[<img align="left" alt="mifrazmurthaja | SlideShare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/slideshare.svg" />](https://www.slideshare.net/MifrazMurthaja)
 
 <br />
 <br />
@@ -35,6 +36,21 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://https://mifrazmurthaja.medium.com/)
+
+---
+
+### 📺 Public Sessions
+
+- [IAM Community Call August](https://github.com/wso2/is-community-call/blob/master/27082021.md)
+    - 🎬 [YouTube](https://www.youtube.com/watch?v=SS7CeSK2ZFw)
+    - 🏷️ [Blog](https://mifrazmurthaja.medium.com/testing-wso2-identity-server-fido-using-mobile-fingerprint-668692fdeecd)
+
+---
+
+### 📔 Public Slides
+- [Deployment Patterns of WSO2 Identity Server](https://www.slideshare.net/MifrazMurthaja/deployment-patterns-of-wso2-identity-server)
+- [JWT SSO Inbound Authenticator](https://www.slideshare.net/MifrazMurthaja/jwt-sso-inbound-authenticator-250073088)
+- [Introduction to DNS](https://www.slideshare.net/MifrazMurthaja/introduction-to-dns-250073101)
 
 ---
 
