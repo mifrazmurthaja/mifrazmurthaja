@@ -28,3 +28,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://https://mifrazmurthaja.medium.com/)
+
+---
+
+![Mifraz Murthaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&hide_border=true)
