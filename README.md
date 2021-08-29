@@ -1,6 +1,6 @@
 ### Hi there, I'm Mifraz Murthaja - aka [mifraz.murthaja](https://mifraz.murthaja.com/) 👋
 
-[![Website](https://img.shields.io/website?label=mifrazmurthaja&style=for-the-badge&url=https%3A%2F%2Fmifraz.murthaja.com)](https://mifraz.murthaja.com/)
+[![Website](https://img.shields.io/website?label=mifraz.murthaja&style=for-the-badge&url=https%3A%2F%2Fmifraz.murthaja.com)](https://mifraz.murthaja.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mifrazmurthaja?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=mifrazmurthaja)
 
 ## I'm a Developer, Learner and  a Mentor!!
