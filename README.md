@@ -27,6 +27,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+<<<<<<< HEAD
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://https://mifrazmurthaja.medium.com/)
@@ -34,3 +35,11 @@
 ---
 
 ![Mifraz Murthaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&hide_border=true)
+=======
+- [Testing WSO2 Identity Server FIDO using Mobile Fingerprint](https://mifrazmurthaja.medium.com/testing-wso2-identity-server-fido-using-mobile-fingerprint-668692fdeecd?source=rss-171d8e0afdf2------2)
+- [Account Lock Countdown in WSO2 Identity Server](https://mifrazmurthaja.medium.com/account-lock-countdown-in-wso2-identity-server-4d468ad2fe30?source=rss-171d8e0afdf2------2)
+- [Implement SSO for Zendesk using WSO2 Identity Server](https://mifrazmurthaja.medium.com/implement-sso-for-zendesk-using-wso2-identity-server-a32148313e5c?source=rss-171d8e0afdf2------2)
+- [Integrate Thinkific LMS with WSO2 Identity Server](https://mifrazmurthaja.medium.com/integrate-thinkific-lms-with-wso2-identity-server-53017f59bbff?source=rss-171d8e0afdf2------2)
+- [JWT SSO with WSO2 Identity Server](https://mifrazmurthaja.medium.com/jwt-sso-with-wso2-identity-server-cf486ffba1bf?source=rss-171d8e0afdf2------2)
+<!-- BLOG-POST-LIST:END -->
+>>>>>>> f3612b1f6f0a30ee0923d64ed91049697a5b5af0
