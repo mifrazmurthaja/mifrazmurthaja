@@ -42,8 +42,8 @@
 ### 📺 Public Sessions
 
 - [IAM Community Call August](https://github.com/wso2/is-community-call/blob/master/27082021.md)
-    - 🎬 [YouTube](https://www.youtube.com/watch?v=SS7CeSK2ZFw)
-    - 🏷️ [Blog](https://mifrazmurthaja.medium.com/testing-wso2-identity-server-fido-using-mobile-fingerprint-668692fdeecd)
+    - <img align="left" alt="mifrazmurthaja | Twitter" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" /> [Watch](https://www.youtube.com/watch?v=SS7CeSK2ZFw)
+    - <img align="left" alt="mifrazmurthaja | Twitter" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" /> [Read](https://mifrazmurthaja.medium.com/testing-wso2-identity-server-fido-using-mobile-fingerprint-668692fdeecd)
 
 ---
 
