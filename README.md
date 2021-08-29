@@ -11,13 +11,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mifrazmurthaja" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://mifraz.murthaja.com/]
-[<img align="left" alt="mifrazmurthaja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/mifrazmurthaja]
-[<img align="left" alt="mifrazmurthaja | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/mifrazmurthaja/]
-[<img align="left" alt="mifrazmurthaja | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][https://www.facebook.com/mifrazmurthaja/]
-[<img align="left" alt="mifrazmurthaja | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][https://mifrazmurthaja.medium.com/]
-[<img align="left" alt="mifrazmurthaja | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][https://stackoverflow.com/users/8725706/mifrazmurthaja]
-[<img align="left" alt="mifrazmurthaja | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][https://github.com/mifrazmurthaja]
+[<img align="left" alt="mifrazmurthaja" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mifraz.murthaja.com/)
+[<img align="left" alt="mifrazmurthaja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mifrazmurthaja)
+[<img align="left" alt="mifrazmurthaja | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mifrazmurthaja/)
+[<img align="left" alt="mifrazmurthaja | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://www.facebook.com/mifrazmurthaja/)
+[<img align="left" alt="mifrazmurthaja | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://mifrazmurthaja.medium.com/)
+[<img align="left" alt="mifrazmurthaja | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/8725706/mifrazmurthaja)
+[<img align="left" alt="mifrazmurthaja | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />](https://github.com/mifrazmurthaja)
 
 <br />
 <br />
